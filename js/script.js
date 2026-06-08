@@ -5,7 +5,7 @@
 // WAJIB DIISI: Ganti URL ini setelah deploy Apps Script
 // ================================================================
 const APPS_SCRIPT_URL =
-  "GANTI_DENGAN_URL_DEPLOYMENT_APPS_SCRIPT_ANDA";
+  "https://script.google.com/macros/s/AKfycbyYQRDGaxG5D-ho5G-TsGgfzVuyZn5wK1nAFMf606gvNmeOPzOSJjRMVF6UeRuJ8IaMLw/exec";
 // Contoh:
 // "https://script.google.com/macros/s/AKfycb.../exec"
 
